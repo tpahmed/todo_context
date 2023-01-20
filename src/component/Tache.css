@@ -1,0 +1,21 @@
+.DONE{
+    border-radius: 3em;
+    background-color: greenyellow;
+    color: white;
+    border: none;
+}
+.DEL{
+    border-radius: 3em;
+    border: none;
+    background-color: lightcoral;
+    color: white;
+}
+.NOM{
+    
+    border-radius: 1em;
+    width: 120px;
+
+}
+#isDone{
+    background-color: lightgreen;
+}

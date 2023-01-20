@@ -1,0 +1,11 @@
+.Insert{
+    width: 160px;
+    border-radius: 1em;
+    border: 1px solid lightgray;
+}
+.ADD{
+    border-radius: 3em;
+    background-color: rgb(68, 178, 214);
+    color: white;
+    border: none;
+}
