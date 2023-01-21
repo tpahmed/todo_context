@@ -19,3 +19,10 @@
 #isDone{
     background-color: lightgreen;
 }
+@media (max-width:500px) {
+    .NOM{
+    
+        width: 100px;
+    
+    }
+}
